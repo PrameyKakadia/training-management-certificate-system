@@ -1,1 +1,0 @@
-Import Code.gs into Apps Script and configure your Google Workspace assets.
